@@ -108,6 +108,7 @@
 - Ideas worth exploring
     - Differnt models per E
     - A single model that can take “None” tokens for a dynamic E value.
+    - Using small transforers (attention is all you need)
 
 # PRESENTATION
 - https://docs.google.com/presentation/d/11hrPQqH2pnBD6P9KZQhltc9O3mTAXaLUfK7KasWCnNE/edit?usp=sharing
