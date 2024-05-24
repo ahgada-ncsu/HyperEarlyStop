@@ -98,6 +98,16 @@
     - The result will print on the screen
     - The result will also be in the folder ./reproduced_results/e{E value}
 
+# A better approach?
+- Instead of predicting just M=150, we can predict a vector of eval_accuracies.
+    - Eg. predict accuracies from <M=70 to M=150>
+
+- How to do it?
+    - Many to Many LSTM
+
+- Ideas worth exploring
+    - Differnt models per E
+    - A single model that can take “None” tokens for a dynamic E value.
 
 # PRESENTATION
 - https://docs.google.com/presentation/d/11hrPQqH2pnBD6P9KZQhltc9O3mTAXaLUfK7KasWCnNE/edit?usp=sharing
