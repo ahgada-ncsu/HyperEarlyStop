@@ -98,3 +98,6 @@
     - The result will print on the screen
     - The result will also be in the folder ./reproduced_results/e{E value}
 
+
+# PRESENTATION
+- https://docs.google.com/presentation/d/11hrPQqH2pnBD6P9KZQhltc9O3mTAXaLUfK7KasWCnNE/edit?usp=sharing
